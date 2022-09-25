@@ -7,6 +7,8 @@ This is a temporary script file.
 import numpy as np
 import re
 from string import punctuation
+import nltk
+nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer
 import joblib
