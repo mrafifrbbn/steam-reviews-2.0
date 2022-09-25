@@ -82,7 +82,7 @@ def sentiment_prediction(input_review):
 def main():
     
     # Title of the app
-    st.title("Game Review Sentiment Classification")
+    st.title("Game Review Sentiment Classifier")
 
     # Get input review from the user
     input_review = st.text_input("User review")
