@@ -1,4 +1,5 @@
 numpy
+sklearn
 nltk
 joblib
 streamlit==0.70.0
